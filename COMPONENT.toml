@@ -3,7 +3,7 @@ name = "SigmaOS-login-shell"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "login-shell component"
+description = "login shell"
 upstream = []
 
 [contract]
